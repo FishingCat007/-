@@ -1,0 +1,17 @@
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.exe
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.deps.json
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.runtimeconfig.json
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.runtimeconfig.dev.json
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.dll
+C:\Users\29729\source\repos\登录窗口\登录窗口\bin\Debug\netcoreapp3.1\登录窗口.pdb
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.csprojAssemblyReference.cache
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.Form1.resources
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.Properties.Resources.resources
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.csproj.GenerateResource.cache
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.AssemblyInfoInputs.cache
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.AssemblyInfo.cs
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.csproj.CoreCompileInputs.cache
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.dll
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.pdb
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.genruntimeconfig.cache
+C:\Users\29729\source\repos\登录窗口\登录窗口\obj\Debug\netcoreapp3.1\登录窗口.Form2.resources
